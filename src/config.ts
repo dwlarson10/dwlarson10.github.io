@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Dan Larson",
+  title: "Data Scientist",
+  description: "Portfolio website of Dan Larson",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
+    email: "dwlarson10@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/rfitzio",
     github: "https://github.com/RyanFitzgerald",
