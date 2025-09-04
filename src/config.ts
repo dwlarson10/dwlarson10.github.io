@@ -5,20 +5,19 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "dwlarson10@gmail.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
+    linkedin: "https://www.linkedin.com/in/datadanlarson/",
     github: "https://github.com/RyanFitzgerald",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I love building things with data — whether it’s designing pipelines at work, experimenting with machine learning models, or exploring new personal projects. My goal is always the same: make data useful, approachable, and impactful.",
+  skills: ["Python", "RAG", "R", "Docker"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "ChatCivic: Safe, simple government AI chatbots serving the public.",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Built a backend to manage RAG chatbot for US civics education.",
+      link: "https://chatcivic.ai",
+      skills: ["Qdrant", "llama-index", "Langfuse"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
