@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Dan Larson",
   title: "Data Scientist",
   description: "Portfolio website of Dan Larson",
-  accentColor: "#1d4ed8",
+  accentColor: "#1dd87eff",
   social: {
     email: "dwlarson10@gmail.com",
     linkedin: "https://www.linkedin.com/in/datadanlarson/",
@@ -10,17 +10,17 @@ export const siteConfig = {
   },
   aboutMe:
     "I love building things with data — whether it’s designing pipelines at work, experimenting with machine learning models, or exploring new personal projects. My goal is always the same: make data useful, approachable, and impactful.",
-  skills: ["Python", "RAG", "R", "Docker"],
+  skills: ["Python", "RAG", "R", "Docker", "SQL","Tableau"],
   projects: [
     {
       name: "ChatCivic: Safe, simple government AI chatbots serving the public.",
       description:
         "Built a backend to manage RAG chatbot for US civics education.",
       link: "https://chatcivic.ai",
-      skills: ["Qdrant", "llama-index", "Langfuse"],
+      skills: ["Qdrant", "llama-index", "Langfuse", "RAG","FastAPI","Web Deployment"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "",
       description:
         "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
       link: "https://fullstackextensions.com/?ref=devportfolio",
@@ -36,9 +36,9 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "LabWare Inc",
+      title: "Analytics Lead Developer",
+      dateRange: "July 2022 - Present",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
         "Reduced API response times by 40% through optimization",
@@ -46,7 +46,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Startup Inc",
+      company: "Comcast",
       title: "Full Stack Developer",
       dateRange: "Jun 2020 - Dec 2021",
       bullets: [
@@ -56,7 +56,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Digital Agency",
+      company: "Drexel University",
       title: "Frontend Developer",
       dateRange: "Aug 2018 - May 2020",
       bullets: [
@@ -68,9 +68,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Lehigh University",
+      degree: "Master of Arts in Sociology",
+      dateRange: "2009 - 2011",
       achievements: [
         "Graduated Magna Cum Laude with 3.8 GPA",
         "Dean's List all semesters",
@@ -78,9 +78,9 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Online Platform",
+      school: "Moravian College",
       degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      dateRange: "2003-2007",
       achievements: [
         "Completed 500+ hours of coursework",
         "Built 10+ portfolio projects",
