@@ -20,9 +20,9 @@ export const siteConfig = {
       skills: ["Qdrant", "llama-index", "Langfuse", "RAG","FastAPI","Web Deployment"],
     },
     {
-      name: "",
+      name: "Deepy McWorkface",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "Building a localized command line interface AI Agent to help me be more ",
       link: "https://fullstackextensions.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
@@ -47,22 +47,26 @@ export const siteConfig = {
     },
     {
       company: "Comcast",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      title: "Credit Analytics and Operations Manager",
+      dateRange: "July 2019 - July 2022",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Oversee team of data analysts to optimize sales and reduce bad debt",
+        "Coordinate national credit strategy for all Comcast products ",
+        "Guide implementation of two credit decision platforms into Comcast Buyflows",
+        "Administer operations monitoring to ensure all strategy is implemented as designed",
+        "Develop a model for calculating Customer Lifetime Value",
+        "Leverage big data tools to analyze terabytes of customer data",
       ],
     },
     {
       company: "Drexel University",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      title: "Associate Director of Institutional Research",
+      dateRange: "Feb 2017 - May 2019",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Maintain SQL server data mart",
+        "Build custom Tableau visualizations to support decisions across the institution",
+        "Communicate statistical analysis to stakeholders with varying levels of technical expertise",
+        "Write and distribute a monthly newsletter aimed to increase data literacy at Drexel University"
       ],
     },
   ],
@@ -72,9 +76,7 @@ export const siteConfig = {
       degree: "Master of Arts in Sociology",
       dateRange: "2009 - 2011",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+
       ],
     },
     {
@@ -82,9 +84,7 @@ export const siteConfig = {
       degree: "Full Stack Development Certificate",
       dateRange: "2003-2007",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+
       ],
     },
   ],
